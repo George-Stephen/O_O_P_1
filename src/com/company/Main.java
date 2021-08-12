@@ -49,7 +49,7 @@ public class Main {
                 }
             }
         }else {
-            // KCSE condition is false <60
+            // KCSE condition is false <65
             System.out.println("You have been rejected \n" +
                     "You have not met the school KCSE requirement");
         }
