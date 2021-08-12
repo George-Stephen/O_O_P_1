@@ -13,7 +13,7 @@ public class Main {
         // enters KCSE grades
         int kcse_grades = scanner.nextInt();
         if(kcse_grades >= 65){
-            System.out.println("Congratulations so far \n" +
+            System.out.println("Congratulations \n" +
                     "Please enter your scores from the Interview(1-10)");
             // Input interview scores if kcse grades are above 65
             int inter_scores = scanner.nextInt();
